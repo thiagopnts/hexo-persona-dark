@@ -77,6 +77,6 @@ rss:
 
 
 [Hexo]: http://zespia.tw/hexo/
-[Demo]: http://thiagopnts.me/hexo-persona-dark/
+[Demo]: http://thiago.me/hexo-persona-dark/
 [AddThis]: https://www.addthis.com
 [Fancybox]: http://fancyapps.com/fancybox/
